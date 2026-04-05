@@ -1,14 +1,8 @@
-# My Project
+# Title
 
-An interactive web piece exploring nonlinear navigation.
+## Section
 
-## Experience
-Click through and explore different paths.
+- bullet point
+- bullet point
 
-## Themes
-- agency
-- confusion
-- loops
-
-## Link
-[View Project](https://username.github.io/my-project/)
+[Link](https://example.com)
